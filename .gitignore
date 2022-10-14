@@ -1,4 +1,5 @@
 new_data.zip
-plots/*
-scratch.docx
-*.zip
+#plots/*
+#scratch.docx
+#*.zip
+.Rproj.user
